@@ -12,7 +12,7 @@ cooking. I try to be as active as possible also: I do weightlifting and
 yoga.
 I am always curious to learn new things!
 
- ## Find me on
+## Find me on
 
 [GitHub](https://github.com/martinabgn)
 
@@ -32,5 +32,5 @@ Linguists](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-
 [The project](https://github.com/martinabgn/cmdline-course.git) I worked 
 on during the Command Line course, where I tried to analyze different 
 books.
- All my other projects are currently "Work in Progress", stay tuned...
+All my other projects are currently "Work in Progress", stay tuned...
 
