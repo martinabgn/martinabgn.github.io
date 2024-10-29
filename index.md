@@ -34,3 +34,5 @@ on during the Command Line course, where I tried to analyze different
 books.
 All my other projects are currently "Work in Progress", stay tuned...
 
+## CV
+[Download the PDF File](assets/documents/Biagioni.fi.pdf)
